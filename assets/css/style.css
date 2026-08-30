@@ -2,7 +2,7 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import "jekyll-theme-leap-day";
 
 #banner {
     background: #155799;
