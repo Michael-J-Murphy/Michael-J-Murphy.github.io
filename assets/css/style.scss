@@ -3,19 +3,76 @@
 
 @import 'jekyll-theme-leap-day';
 
-header {
-    background: #000000;
-        h1 {
-            color: #D8AB4C;
-        }
+body {
+    font: unset;
+    color: #606C71;
+    background: #FFFFFF;
 }
 
+/* ===== Header ===== */
+
+header {
+    background: linear-gradient(120deg, #155799, #159957);
+
+    h1 {
+        color: #FFFFFF;
+        text-shadow: none;
+    }
+
+    p {
+        color: #FFFFFF;
+        text-shadow: none;
+    }
+}
+
+/* ===== Banner ===== */
 
 #banner {
-    background: #D8AB4C;
+    background: #159957;
+    border-color: #159957;
+
+    .button {
+        background: #155799;
+        border-color: #155799;
+        color: #FFFFFF;
+    }
 }
 
-body {
-    font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-    background: red !important;
+/* ===== Links ===== */
+
+a {
+    color: #1E6BB8;
+}
+
+a:hover {
+    color: #159957;
+}
+
+/* ===== Content ===== */
+
+section {
+    background: #FFFFFF;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: #159957;
+}
+
+/* ===== Navigation ===== */
+
+nav ul li.tag-h1 a {
+    color: #155799;
+}
+
+nav ul a {
+    color: #606C71;
+}
+
+nav ul a:hover {
+    color: #159957;
 }
