@@ -1,0 +1,9 @@
+/* SCSS file to override theme colors from jekyll-theme-leap-day*/
+---
+---
+
+@import "{{ site.theme }}";
+
+#banner {
+    background: #155799;
+}
