@@ -2,10 +2,18 @@
 ---
 ---
 
-@import "jekyll-theme-leap-day";
+@import 'jekyll-theme-leap-day';
+
+header {
+    background: #000000;
+        h1 {
+            color: #D8AB4C;
+        }
+}
+
 
 #banner {
-    background: #155799;
+    background: #D8AB4C;
 }
 
 body {
