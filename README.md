@@ -1,2 +1,3 @@
-# Michael-J-Murphy.github.io
-Michael Murphy ePortfolio
+# Michael Murphy's ePortfolio
+Michael-J-Murphy.github.io
+
