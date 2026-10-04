@@ -34,8 +34,6 @@ This section provides direct links to the individual submissions for each stage 
 - [Algorithms and Data Structure - Narrative Document](https://github.com/Michael-J-Murphy/CS-499-Capstone-Documents/blob/main/4-2%20Algorithms%20and%20Data%20Structure%20-%20Narrative%20(2026%2009-27).docx)
 
 #### Enhancement Three: Databases
-- [Databases - Code](https://github.com/Michael-J-Murphy/CS-499-Computer-Science-Capstone/commit/COMMIT_HASH)
+- [Databases - Code](https://github.com/Michael-J-Murphy/CS-499-Computer-Science-Capstone/commit/7e028c6fe033d0add8c5bf899dc969a007405015)
 
-- [Databases - Narrative Document](https://github.com/Michael-J-Murphy/CS-499-Capstone-Documents)
-
-https://github.com/Michael-J-Murphy/CS-499-Capstone-Documents/blob/main/1-2%20Project%20Design%20(2026%2009-06).docx
+- [Databases - Narrative Document](https://github.com/Michael-J-Murphy/CS-499-Capstone-Documents/blob/main/5-2%20Databases%20-%20Narrative%20(2026%2010-03).docx)
