@@ -2,7 +2,7 @@
 Michael-J-Murphy.github.io
 
 ## Professional Self Assessment
-- [Self Assessment Word Document](https://github.com/Michael-J-Murphy/CS-499-Capstone-Documents)
+- [Self Assessment Word Document]([https://github.com/Michael-J-Murphy/CS-499-Capstone-Documents](https://github.com/Michael-J-Murphy/CS-499-Capstone-Documents/blob/main/7-1%20-%20Professional%20Self-Assessment%20(2026%2010-16).docx))
 
 ## Capstone Travlr Website Update:
 [![Travlr Getaways website example](assets/images/Travlr%20Website%20Example.jpg)](https://github.com/Michael-J-Murphy/CS-499-Computer-Science-Capstone)
